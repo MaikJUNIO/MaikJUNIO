@@ -1,20 +1,21 @@
 <p align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> 
-<h1 align="center">👋 Hola, soy Maik Junior!</h1>
+<h1 align="center">👋 Hi, I'm Maik Junior!</h1>
 </p>
 
-### 🔥 Sobre mí  
-- 🎨 Apasionado por el diseño y el desarrollo web, creando experiencias interactivas y fluidas.  
-- 🛠️ Trabajo con **React, Vite, JavaScript, Tailwind CSS y TypeScript**.  
-- 📚 Siempre aprendiendo y explorando **nuevas tecnologías y frameworks modernos**.  
-- 🔍 Me encanta convertir ideas en **interfaces dinámicas y atractivas**.  
-- 🎯 En busca de nuevas oportunidades para **crecer y contribuir en proyectos innovadores**.  
-- 🌎 Explora mi trabajo en [**MI PORTAFOLIO**](TU_LINK_PORTAFOLIO).  
-- 📩 ¿Hablamos? Contáctame en [**MI LINKEDIN**](https://github.com/MaikJUNIO).  
+### 🔥 About Me
+
+- 🎨 Passionate about design and web development, creating interactive and seamless experiences.
+- 🛠️ I work with React, Vite, JavaScript, Tailwind CSS, and TypeScript.
+- 📚 Always learning and exploring new technologies and modern frameworks.
+- 🔍 I love turning ideas into dynamic and engaging interfaces.
+- 🎯 Looking for new opportunities to grow and contribute to innovative projects.  
+- 🌎 Explore my work at [**MI PORTAFOLIO**](TU_LINK_PORTAFOLIO).  
+- 📩 Let’s connect! Contact me on [**MI LINKEDIN**](https://github.com/MaikJUNIO).  
 
 ---
 
-### 🛠️ Tecnologías y Herramientas  
+### 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
