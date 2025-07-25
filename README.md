@@ -11,7 +11,7 @@
 - 🔍 I love turning ideas into dynamic and engaging interfaces.
 - 🎯 Looking for new opportunities to grow and contribute to innovative projects.  
 - 🌎 Explore my work at <a href="https://portfolio-beige-phi-34.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>MI PORTAFOLIO</strong></a>.
-- 📩 Let’s connect! Contact me on <a href="https://github.com/MaikJUNIO" target="_blank" rel="noopener noreferrer"><strong>MI LINKEDIN</strong></a>.
+- 📩 Let’s connect! Contact me on <a href="https://www.linkedin.com/in/sproutup/" target="_blank" rel="noopener noreferrer"><strong>MI LINKEDIN</strong></a>.
 
 
 ---
