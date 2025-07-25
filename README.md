@@ -10,8 +10,9 @@
 - 📚 Always learning and exploring new technologies and modern frameworks.
 - 🔍 I love turning ideas into dynamic and engaging interfaces.
 - 🎯 Looking for new opportunities to grow and contribute to innovative projects.  
-- 🌎 Explore my work at [**MI PORTAFOLIO**](https://portfolio-beige-phi-34.vercel.app/).  
-- 📩 Let’s connect! Contact me on [**MI LINKEDIN**](https://github.com/MaikJUNIO).  
+- 🌎 Explore my work at <a href="https://portfolio-beige-phi-34.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>MI PORTAFOLIO</strong></a>.
+- 📩 Let’s connect! Contact me on <a href="https://github.com/MaikJUNIO" target="_blank" rel="noopener noreferrer"><strong>MI LINKEDIN</strong></a>.
+
 
 ---
 
