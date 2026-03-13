@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> 
-<h1 align="center">👋 Hi, I'm Maik Junior!</h1>
+<h1 align="center">👋 Hi 👋 I'm Maik Casavilca Peñares!</h1>
 </p>
 
 # 👋 Hi, I'm Maik Junior Casavilca
