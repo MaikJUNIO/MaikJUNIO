@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> 
+<h1 align="center">👋 Hi, I'm Maik Junior!</h1>
+</p>
+
 # 👋 Hi, I'm Maik Junior Casavilca
 
 💻 **Full Stack Developer** focused on building modern web applications with React and Node.js.
