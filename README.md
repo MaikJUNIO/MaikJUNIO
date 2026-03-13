@@ -1,86 +1,98 @@
-<p align="center">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> 
-<h1 align="center">👋 Hi, I'm Maik Junior!</h1>
-</p>
+# 👋 Hi, I'm Maik Junior Casavilca
 
-### 🔥 About Me
+💻 **Full Stack Developer** focused on building modern web applications with React and Node.js.
 
-- 🎨 Passionate about design and web development, creating interactive and seamless experiences.
-- 🛠️ I work with React, Vite, JavaScript, Tailwind CSS, and TypeScript.
-- 📚 Always learning and exploring new technologies and modern frameworks.
-- 🔍 I love turning ideas into dynamic and engaging interfaces.
-- 🎯 Looking for new opportunities to grow and contribute to innovative projects.  
-- 🌎 Explore my work at <a href="https://portfolio-beige-phi-34.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>MI PORTAFOLIO</strong></a>.
-- 📩 Let’s connect! Contact me on <a href="https://www.linkedin.com/in/sproutup/" target="_blank" rel="noopener noreferrer"><strong>MI LINKEDIN</strong></a>.
-
+I enjoy creating scalable web systems, designing APIs and developing modern user interfaces.
 
 ---
 
-### 🛠️ Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+# 🚀 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+### Backend
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ---
-<!--
-## 📂 My Repositories  
+
+# 📌 Featured Projects
+
+### 🚀 Space App
+React application for managing and exploring photo galleries with search, favorites and modern UI.
+
+🔧 Tech: React, Context API, Hooks, CSS  
+🔗 https://github.com/MaikJUNIO/react-hooks-galeria
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="URL_DEL_REPO_1"><strong>📌 Nombre_Proyecto_1</strong></a>
-      <br>
-      Descripción breve del proyecto.
-      <br>
-      <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript">
-      <img src="https://img.shields.io/github/stars/TU_USUARIO/NOMBRE_REPO?style=social">
-      <img src="https://img.shields.io/github/forks/TU_USUARIO/NOMBRE_REPO?style=social">
-    </td>
-    <td>
-      <a href="URL_DEL_REPO_2"><strong>📌 Nombre_Proyecto_2</strong></a>
-      <br>
-      Descripción breve del proyecto.
-      <br>
-      <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react">
-      <img src="https://img.shields.io/github/stars/TU_USUARIO/NOMBRE_REPO?style=social">
-      <img src="https://img.shields.io/github/forks/TU_USUARIO/NOMBRE_REPO?style=social">
-    </td>
-  </tr>
+### 🎬 DarkarFlix
+Video platform built with React that allows users to explore and watch episodes in a clean interface.
 
-  <tr>
-    <td>
-      <a href="URL_DEL_REPO_3"><strong>📌 Nombre_Proyecto_3</strong></a>
-      <br>
-      Descripción breve del proyecto.
-      <br>
-      <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js">
-      <img src="https://img.shields.io/github/stars/TU_USUARIO/NOMBRE_REPO?style=social">
-      <img src="https://img.shields.io/github/forks/TU_USUARIO/NOMBRE_REPO?style=social">
-    </td>
-    <td>
-      <a href="URL_DEL_REPO_4"><strong>📌 Nombre_Proyecto_4</strong></a>
-      <br>
-      Descripción breve del proyecto.
-      <br>
-      <img src="https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwindcss">
-      <img src="https://img.shields.io/github/stars/TU_USUARIO/NOMBRE_REPO?style=social">
-      <img src="https://img.shields.io/github/forks/TU_USUARIO/NOMBRE_REPO?style=social">
-    </td>
-  </tr>
-</table>
--->
+🔧 Tech: React, JavaScript, CSS Modules  
+🔗 https://github.com/MaikJUNIO/DarkarFlix
 
+---
 
+### 🛒 Alura Geek
+E-commerce style web application with dynamic product management and LocalStorage persistence.
 
+🔧 Tech: HTML, CSS, JavaScript  
+🔗 https://github.com/MaikJUNIO/alura-geek-1.1
+
+---
+
+### 🔐 Text Encryptor
+Web application that encrypts and decrypts messages using custom text transformation logic.
+
+🔧 Tech: HTML, CSS, JavaScript  
+🔗 https://github.com/MaikJUNIO/encriptador
+
+---
+
+# 📊 GitHub Stats
+
+![Maik GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikJUNIO&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikJUNIO&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaikJUNIO&theme=tokyo-night)
+
+---
+
+# 🌎 Connect with me
+
+💼 LinkedIn  
+https://linkedin.com/in/maik-casavilca
+
+🐙 GitHub  
+https://github.com/MaikJUNIO
 
 
